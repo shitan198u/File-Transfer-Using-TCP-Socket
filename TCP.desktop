@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=File Transfer
+Comment=Transfer files between two computers
+Exec=konsole -e /bin/bash -c "python3 /home/shsrra/CODE/FFileTransfer/server.py; exec bash" && konsole -e /bin/bash -c "python3 /home/shsrra/CODE/FFileTransfer/client.py; exec bash"
+Icon=/path/to/icon.png
+Terminal=true
+Type=Application
+Categories=Internet;
