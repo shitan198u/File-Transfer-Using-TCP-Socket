@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=File Transfer
+Comment=Transfer files between two computers
+Exec=konsole -e /bin/bash -c "python3 /home/shsrra/CODE/FFileTransfer/server.py; exec bash"
+Icon=/home/shsrra/CODE/FFileTransfer/server.png
+Terminal=false
+Type=Application
+Categories=Internet;
