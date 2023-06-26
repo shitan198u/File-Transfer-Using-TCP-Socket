@@ -1,9 +1,0 @@
-#!/usr/bin/env xdg-open
-[Desktop Entry]
-Name=File Transfer
-Comment=Transfer files between two computers
-Exec=python3 /home/shsrra/CODE/FFileTransfer/client.py
-Icon=/home/shsrra/CODE/FFileTransfer/client.jpg
-Terminal=false
-Type=Application
-Categories=Internet;
